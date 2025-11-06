@@ -1,2 +1,2 @@
 # study-times
-apps com objetivo de irganuzar 
+app com objetivo de organizar tudo sobre a vida de estudos
