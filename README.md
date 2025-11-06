@@ -1,2 +1,11 @@
-# study-times
-app com objetivo de organizar tudo sobre a vida de estudos
+
+
+# Habilidades
+- Linguagens: Python
+- Ferramentas: VSCode
+
+# Projetos em destaque
+Save e Share — app em desenvolvimento que 
+
+# Contato
+- Email: gabriel.duarte@ba.estudante.senai.br
